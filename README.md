@@ -19,7 +19,7 @@ The company is aiming to achieve greater gender diversity, particularly in highe
 
 The dataset used for this task was presented by [Pwc](https://www.pwc.com) and the call centre trends dataset:
 
-- **Dataset**: [Call Centre Trends](03 Diversity-Inclusion-Dataset.xlsx)
+- **Dataset**: [Diversity Inclusion Datset]([03 Diversity-Inclusion-Dataset.xlsx](https://github.com/BhavishaKulal/PWC-PowerBI-Task-3/blob/main/03%20Diversity-Inclusion-Dataset.xlsx))
 
 ## Data Visualization (Dashboard)
 
