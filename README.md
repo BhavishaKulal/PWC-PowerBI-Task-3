@@ -18,13 +18,14 @@ The company is aiming to achieve greater gender diversity, particularly in highe
 
 The dataset used for this task was presented by [Pwc](https://www.pwc.com) and the call centre trends dataset:
 
-- **Dataset**: [Call Centre Trends](calldata.xlsx)
+- **Dataset**: [Call Centre Trends](03 Diversity-Inclusion-Dataset.xlsx)
 
 ## Data Visualization (Dashboard)
 
 Data visualization for the data analysis (DAX) was done in Microsoft Power BI Desktop:
+
 Diversity & Inclusion
-[View Dashboard](https://github.com/BhavishaKulal/PWC-PowerBi-Task-2/blob/main/retention_customer.pbix)
+[View New Dashboard](https://github.com/BhavishaKulal/PWC-PowerBI-Task-3/blob/main/Diversity.pbix)
 
 ![image](https://github.com/user-attachments/assets/126e55a6-31fa-4d17-ade0-a7661bccede0)
 
